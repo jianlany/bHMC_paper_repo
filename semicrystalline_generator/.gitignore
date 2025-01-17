@@ -1,0 +1,10 @@
+__pycache__
+*.lammps
+*.png
+*.restart
+*.txt
+*.log
+mpi_test.py
+test.py
+logs
+lammps_input
